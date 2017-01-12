@@ -9,3 +9,9 @@ If you are already an admin or you want to volunteer as an admin, send a pull re
 | Name | Roles | Contact
 | Ondrej Mihályi | Documentation | Twitter: https://twitter.com/OMihalyi[@omihalyi], Github: https://github.com/OndrejM[@OndrejM], Other: https://itblog.inginea.eu[Blog]
 |===
+
+List of resources which administrators should have access to:
+ - write and invite priviledges to the Google Drive (owned by Ondrej Mihályi, but any one can invite others to have the same privileges)
+ - write access to the jcpevangelist github repositories (the github org is owned by Tomitribe)
+ - admin of the mailing list
+ - invited to the slack channel
