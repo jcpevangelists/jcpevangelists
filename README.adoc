@@ -13,8 +13,8 @@ EE-Central.io is a community-driven project addressing the challenges of the ado
 
 === ee-central.io resources:
  * http://ec2-54-174-245-236.compute-1.amazonaws.com/ee-central/page/mission.adoc[The mission statement]
+ * https://groups.google.com/forum/#!forum/ee-central[Mailing list]
+ * link:list-of-admins.adoc[The list of administators] - the list of current administrators and their roles. Contact any of them in case of any issues
  * https://drive.google.com/drive/folders/0B3zFo9byHzdvVl9mQjlURGV6MUE?usp=sharing[Google drive with documents] - read-only to public
  * http://ec2-54-174-245-236.compute-1.amazonaws.com/ee-central/page/contribute.adoc[more information how to contribute]
  * https://javaee-wg.slack.com/messages/ee-central_io[EE-central.io channel on JavaEE-WG Slack group] - a temporary channel for discussion, access with invitation, not much used these days (we plan to either abandon it or move to a public Slack group)
- * we plan to create a mailing-list (not created yet)
- * link:list-of-admins.adoc[The list of administators] - the list of current administrators and their roles. Contact any of them in case of any issues
