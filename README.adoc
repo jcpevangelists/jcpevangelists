@@ -9,7 +9,7 @@ EE-Central.io is a community-driven project addressing the challenges of the ado
 
  * not yet published at ee-central.io (the work is still in process)
  * ee-central.io domain registered by London Java Community (contact: Martijn Verburg)
- * latest preview of the site is available at: bit.ly/ee-central
+ * latest preview of the site is available at: http://bit.ly/ee-central[bit.ly/ee-central]
 
 === ee-central.io resources:
  * http://ec2-54-174-245-236.compute-1.amazonaws.com/ee-central/page/mission.adoc[The mission statement]
