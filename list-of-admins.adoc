@@ -1,0 +1,11 @@
+= List of administrators of ee-central.io
+
+Currently does not list all administrators, the list is being completed to match reality.
+
+If you are already an admin or you want to volunteer as an admin, send a pull request with your info in the table below.
+
+[options="header"]
+|===
+| Name | Roles | Contact
+| Ondrej Mihályi | Documentation | Twitter: https://twitter.com/OMihalyi[@omihalyi], Github: https://github.com/OndrejM[@OndrejM], Other: https://itblog.inginea.eu[Blog]
+|===
