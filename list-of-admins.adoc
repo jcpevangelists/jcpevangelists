@@ -8,6 +8,7 @@ If you are already an admin or you want to volunteer as an admin, send a pull re
 |===
 | Name | Roles | Contact
 | Ondrej Mihályi | Documentation | Twitter: https://twitter.com/OMihalyi[@omihalyi], Github: https://github.com/OndrejM[@OndrejM], Other: https://itblog.inginea.eu[Blog]
+| Alex Theedom | Google Group Mod/Content Provider | Twitter: https://twitter.com/readlearncode[@readlearncode], Github: https://github.com/readlearncode[@readlearncode], Other: https://www.readlearncode.com[Blog]
 | Martijn Verburg | Documentation, Github, Mailing List, Slack | Twitter: https://twitter.com/karianna[@karianna], Github: https://github.com/karianna[@karianna]
 |===
 
