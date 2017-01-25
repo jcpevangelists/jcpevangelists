@@ -14,7 +14,9 @@ If you are already an admin or you want to volunteer as an admin, send a pull re
 
 List of resources which administrators should have access to:
  
- * write and invite priviledges to the Google Drive (owned by Ondrej Mihályi, but any one can invite others to have the same privileges)
- * write access to the jcpevangelist github repositories (the github org is owned by Tomitribe)
- * admin of the mailing list
- * invited to the slack channel
+ * write and invite priviledges to the https://drive.google.com/drive/folders/0B3zFo9byHzdvVl9mQjlURGV6MUE?usp=sharing[Google Drive] (owned by Ondrej Mihályi, but any one can invite others to have the same privileges)
+ * write access to the https://github.com/jcpevangelist    s[jcpevangelist] github repositories (the github org is owned by Tomitribe), or at least admin of https://github.com/jcpevangelists/jcpevangelists[jcpevangelists repo]
+ * admin of the https://github.com/ee-central[ee-central github organization]
+ * admin of the https://groups.google.com/forum/#!forum/ee-central[mailing list]
+ * invited to the https://javaee-wg.slack.com/messages/ee-central_io[slack channel]
+ *
