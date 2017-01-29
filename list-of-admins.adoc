@@ -12,11 +12,23 @@ If you are already an admin or you want to volunteer as an admin, send a pull re
 | Martijn Verburg | Documentation, Github, Mailing List, Slack | Twitter: https://twitter.com/karianna[@karianna], Github: https://github.com/karianna[@karianna]
 |===
 
-List of resources which administrators should have access to:
+List of resources that administrators should have access to:
  
  * write and invite priviledges to the https://drive.google.com/drive/folders/0B3zFo9byHzdvVl9mQjlURGV6MUE?usp=sharing[Google Drive] (owned by Ondrej Mihályi, but any one can invite others to have the same privileges)
  * write access to the https://github.com/jcpevangelist    s[jcpevangelist] github repositories (the github org is owned by Tomitribe), or at least admin of https://github.com/jcpevangelists/jcpevangelists[jcpevangelists repo]
- * admin of the https://github.com/ee-central[ee-central github organization]
+ * member of the https://github.com/ee-central[ee-central github organization]
  * admin of the https://groups.google.com/forum/#!forum/ee-central[mailing list]
  * invited to the https://javaee-wg.slack.com/messages/ee-central_io[slack channel]
- * admin of the [Twitter account](https://twitter.com/eecentral_io)
+ * admin of the https://twitter.com/eecentral_io[Twitter account]
+ * admin of the https://www.facebook.com/EEcentral[Facebook page]
+ * admin of our Google Plus account/page (not yet created)
+
+== Instructions for accepting a new admin
+
+After a PR with details about a new admin candidate is received:
+
+1. Review the candidate details, discuss with other admins if the candidate is trustworthy to be accepted as another admin
+2. If yes, the merge the PR and coninue with next steps (if no, then either leave the PR open or close it with a comment)
+3. Give admin rights to the above resources to the accepted candidate 
+
+All admins should have equal rights to access the resources. Some resources can only be owned by a single person, in that case all other admins should have equal rights with least restrictions possible.
