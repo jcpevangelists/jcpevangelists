@@ -19,7 +19,7 @@ List of resources that administrators should have access to:
  * member of the https://github.com/ee-central[ee-central github organization]
  * admin of the https://groups.google.com/forum/#!forum/ee-central[mailing list]
  * invited to the https://javaee-wg.slack.com/messages/ee-central_io[slack channel]
- * admin of the https://twitter.com/eecentral_io[Twitter account]
+ * access of the https://twitter.com/eecentral_io[Twitter account] via https://tweetdeck.twitter.com/[Tweetdeck] (Alex Theedom owns the account)
  * admin of the https://www.facebook.com/EEcentral[Facebook page]
  * admin of our Google Plus account/page (not yet created)
 
